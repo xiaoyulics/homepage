@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a first-year Ph.D. student in Computer Science at Stevens Institute of Technology. I am fortunate to be advised by [Prof. Jie Shen](https://sites.google.com/site/jieshensjtu/). Before that, I got my Bachelor's degree in Mathematics and Computer Science from the University of New South Wales. While there, I worked on AI for cybersecurity with [Dr. Jiaojiao Jiang](https://research.unsw.edu.au/people/dr-jiaojiao-jiang) and large-scale optimization with [Prof. Guoyin Li](https://web.maths.unsw.edu.au/~gyli/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Algorithmic Robustness**
+- **Differential Privacy**
+- **Optimization Algorithms**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[Jul. 2024]** One paper about misinformation detection is accepted by CIKM 2024.
+  
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
