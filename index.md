@@ -4,19 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in Computer Science at Stevens Institute of Technology. I am fortunate to be advised by [Prof. Jie Shen](https://sites.google.com/site/jieshensjtu/). Before that, I got my Bachelor's degree in Mathematics and Computer Science from the University of New South Wales. While there, I worked on AI for cybersecurity with [Dr. Jiaojiao Jiang](https://research.unsw.edu.au/people/dr-jiaojiao-jiang) and large-scale optimization with [Prof. Guoyin Li](https://web.maths.unsw.edu.au/~gyli/).
+I am a first-year Ph.D. student in Computer Science at the [Stevens Institute of Technology](https://www.stevens.edu/). I am fortunate to be advised by [Prof. Jie Shen](https://sites.google.com/site/jieshensjtu/). Before that, I got my Bachelor's degree in Mathematics and Computer Science from the [University of New South Wales](https://www.unsw.edu.au/) in 2023. While there, I worked on AI for cybersecurity with [Dr. Jiaojiao Jiang](https://research.unsw.edu.au/people/dr-jiaojiao-jiang) and large-scale optimization with [Prof. Guoyin Li](https://web.maths.unsw.edu.au/~gyli/).
+
+---
 
 ## Research Interests
 
-I have broad interests in machine learning theory and theoretical computer science. I am particularly interested in the theoretical foundations of trustworthy machine learning (robustness, privacy, and fairness). I am also keen on algorithm design and complexity analysis.
+I have broad interests in machine learning theory and theoretical computer science. I am particularly interested in the theoretical foundations of trustworthy machine learning (robustness, privacy and fairness). I am also keen on algorithm design and complexity analysis.
 
 - **Algorithmic Robustness**
 - **Differential Privacy**
 - **Optimization Algorithms**
 
+---
+
 ## News
 
-- **[Jul. 2024]** One paper about misinformation detection is accepted by CIKM 2024.
+- **[Jul. 2024]** One paper studying misinformation detection got accepted to CIKM 2024.
+
+---
 
 ## Publications
 
@@ -26,9 +32,11 @@ I have broad interests in machine learning theory and theoretical computer scien
 
 ### Preprints
 
-- [Learning Large-margin Halfspaces with Malicious Noise]()<br>
+- [Learning Large-Margin Halfspaces with Malicious Noise]()<br>
   **Xiaoyu Li**, Jie Shen<br>
   *In Preparation*
+
+---
 
 ## Services
 
