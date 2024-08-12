@@ -18,7 +18,7 @@ I am a first-year Ph.D. student in Computer Science at Stevens Institute of Tech
 
 ## Publications
 
-- DiHAN: A Novel Dynamic Hierarchical Graph Attention Network for Fake News Detection<br>
+- [DiHAN: A Novel Dynamic Hierarchical Graph Attention Network for Fake News Detection](https://github.com/xiaoyulics/homepage/blob/8e319739b95f742d7af914ea65994668a9ad0eed/files/Fake_News_Detection_on_Dynamic_Heterogeneous_Networks%20(3).pdf)<br>
   Ya-Ting Chang, Zhibo Hu, **Xiaoyu Li**, Shuiqiao Yang, Jiaojiao Jiang and Nan Sun<br>
   *CIKM, 2024*
 
@@ -27,7 +27,7 @@ I am a first-year Ph.D. student in Computer Science at Stevens Institute of Tech
 
 ### Conference Reviewers
 
-- International Conference on Learning Representations (ICLR) 2024</li>
-- International Conference on Machine Learning (ICML) 2024</li>
-- Conference on Information and Knowledge Management (CIKM) 2024</li>
-- Asian Conference on Machine Learning (ACML) 2024</li>
+- International Conference on Learning Representations (ICLR) 2024
+- International Conference on Machine Learning (ICML) 2024
+- Conference on Information and Knowledge Management (CIKM) 2024
+- Asian Conference on Machine Learning (ACML) 2024
