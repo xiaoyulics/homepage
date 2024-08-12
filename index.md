@@ -26,9 +26,9 @@ I have broad interests in machine learning theory and theoretical computer scien
 
 ### Preprints
 
-- [Learning Large-margin Halfspaces with Malicious Noise](https://xiaoyulics.github.io/assets/files/Fake_News_Detection_on_Dynamic_Heterogeneous_Networks.pdf)<br>
+- [Learning Large-margin Halfspaces with Malicious Noise]()<br>
   **Xiaoyu Li**, Jie Shen<br>
-  *In preparation*
+  *In Preparation*
 
 ## Services
 
