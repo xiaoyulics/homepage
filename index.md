@@ -15,7 +15,19 @@ I am a first-year Ph.D. student in Computer Science at Stevens Institute of Tech
 ## News
 
 - **[Jul. 2024]** One paper about misinformation detection is accepted by CIKM 2024.
-  
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Publications
+
+- DiHAN: A Novel Dynamic Hierarchical Graph Attention Network for Fake News Detection<br>
+  Ya-Ting Chang, Zhibo Hu, **Xiaoyu Li**, Shuiqiao Yang, Jiaojiao Jiang and Nan Sun<br>
+  *CIKM, 2024*
+
+
+## Services
+
+### Conference Reviewers
+
+- International Conference on Learning Representations (ICLR) 2024</li>
+- International Conference on Machine Learning (ICML) 2024</li>
+- Conference on Information and Knowledge Management (CIKM) 2024</li>
+- Asian Conference on Machine Learning (ACML) 2024</li>
