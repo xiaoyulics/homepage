@@ -26,13 +26,13 @@ I have broad interests in machine learning theory and theoretical computer scien
 
 ## Publications
 
-- [DiHAN: A Novel Dynamic Hierarchical Graph Attention Network for Fake News Detection](https://xiaoyulics.github.io/assets/files/Fake_News_Detection_on_Dynamic_Heterogeneous_Networks.pdf)<br>
+- DiHAN: A Novel Dynamic Hierarchical Graph Attention Network for Fake News Detection<br>
   Ya-Ting Chang, Zhibo Hu, **Xiaoyu Li**, Shuiqiao Yang, Jiaojiao Jiang and Nan Sun<br>
   *CIKM, 2024*
 
 ### Preprints
 
-- [Learning Large-Margin Halfspaces with Malicious Noise]()<br>
+- Learning Large-Margin Halfspaces with Malicious Noise<br>
   **Xiaoyu Li**, Jie Shen<br>
   *In Preparation*
 
