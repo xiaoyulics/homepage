@@ -8,6 +8,8 @@ I am a first-year Ph.D. student in Computer Science at Stevens Institute of Tech
 
 ## Research Interests
 
+I have broad interests in machine learning theory and theoretical computer science. I am particularly interested in the theoretical foundations of trustworthy machine learning (robustness, privacy, and fairness). I am also keen on algorithm design and complexity analysis.
+
 - **Algorithmic Robustness**
 - **Differential Privacy**
 - **Optimization Algorithms**
@@ -18,10 +20,15 @@ I am a first-year Ph.D. student in Computer Science at Stevens Institute of Tech
 
 ## Publications
 
-- [DiHAN: A Novel Dynamic Hierarchical Graph Attention Network for Fake News Detection](https://github.com/xiaoyulics/homepage/blob/8e319739b95f742d7af914ea65994668a9ad0eed/files/Fake_News_Detection_on_Dynamic_Heterogeneous_Networks%20(3).pdf)<br>
+- [DiHAN: A Novel Dynamic Hierarchical Graph Attention Network for Fake News Detection](https://xiaoyulics.github.io/assets/files/Fake_News_Detection_on_Dynamic_Heterogeneous_Networks.pdf)<br>
   Ya-Ting Chang, Zhibo Hu, **Xiaoyu Li**, Shuiqiao Yang, Jiaojiao Jiang and Nan Sun<br>
   *CIKM, 2024*
 
+### Preprints
+
+- [Learning Large-margin Halfspaces with Malicious Noise](https://xiaoyulics.github.io/assets/files/Fake_News_Detection_on_Dynamic_Heterogeneous_Networks.pdf)<br>
+  **Xiaoyu Li**, Jie Shen<br>
+  *In preparation*
 
 ## Services
 
